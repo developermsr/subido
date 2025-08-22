@@ -1,0 +1,7 @@
+task_0:
+  audio_path: /content/audioo.mp3
+  video_path: /content/videeo.mp4
+task_1:
+  audio_path: /content/audioo.mp3
+  bbox_shift: -7
+  video_path: /content/videeo.mp4
